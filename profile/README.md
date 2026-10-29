@@ -5,4 +5,4 @@
 
 The goal is simple: spend less time fixing your system and more time using it. 
 
-Therefore, our slogan: Arch Linux, but with a friendlier bite
+Therefore, our slogan: Arch Linux, but with a friendlier bite.
